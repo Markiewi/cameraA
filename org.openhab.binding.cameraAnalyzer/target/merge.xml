@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><sca xmlns:pmdns="http://pmd.sourceforge.net/report/2.0.0" xmlns:functx="http://www.functx.com">
+   <file name="org.openhab.binding.cameraAnalyzer.internal.CameraAnalyzerBindingConstants.java">
+      <message tool="checkstyle" line="13" message="Name 'org.openhab.binding.cameraAnalyzer.internal' must match pattern '^[a-z]+(\.[a-z][a-z0-9]*)*$'." priority="3" rule="PackageNameCheck" category="style"/>
+   </file>
+   <file name="org.openhab.binding.cameraAnalyzer.internal.CameraAnalyzerConfiguration.java">
+      <message tool="checkstyle" line="13" message="Name 'org.openhab.binding.cameraAnalyzer.internal' must match pattern '^[a-z]+(\.[a-z][a-z0-9]*)*$'." priority="3" rule="PackageNameCheck" category="style"/>
+      <message tool="checkstyle" line="20" message="Classes/Interfaces should be annotated with @NonNullByDefault" priority="2" rule="NullAnnotationsCheck" category="style"/>
+   </file>
+   <file name="org.openhab.binding.cameraAnalyzer.internal.CameraAnalyzerHandler.java">
+      <message tool="pmd" line="48" message="&#xA;Avoid empty if statements&#xA;" priority="3" rule="EmptyIfStmt" rule_url="https://pmd.github.io/pmd-6.7.0/pmd_rules_java_errorprone.html#emptyifstmt" category="error prone"/>
+   <message tool="checkstyle" line="13" message="Name 'org.openhab.binding.cameraAnalyzer.internal' must match pattern '^[a-z]+(\.[a-z][a-z0-9]*)*$'." priority="3" rule="PackageNameCheck" category="style"/>
+      <message tool="checkstyle" line="49" message="Comment matches to-do format '(TODO)|(FIXME)'." priority="3" rule="TodoCommentCheck" category="style"/>
+      <message tool="checkstyle" line="52" message="Comment matches to-do format '(TODO)|(FIXME)'." priority="3" rule="TodoCommentCheck" category="style"/>
+      <message tool="checkstyle" line="65" message="Comment matches to-do format '(TODO)|(FIXME)'." priority="3" rule="TodoCommentCheck" category="style"/>
+   </file>
+<file name="org.openhab.binding.cameraAnalyzer.internal.CameraAnalyzerHandlerFactory.java">
+      <message tool="checkstyle" line="13" message="Name 'org.openhab.binding.cameraAnalyzer.internal' must match pattern '^[a-z]+(\.[a-z][a-z0-9]*)*$'." priority="3" rule="PackageNameCheck" category="style"/>
+   </file>
+
+
+</sca>

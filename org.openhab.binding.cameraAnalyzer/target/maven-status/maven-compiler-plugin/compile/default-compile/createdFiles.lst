@@ -1,0 +1,4 @@
+org\openhab\binding\cameraAnalyzer\internal\CameraAnalyzerConfiguration.class
+org\openhab\binding\cameraAnalyzer\internal\CameraAnalyzerBindingConstants.class
+org\openhab\binding\cameraAnalyzer\internal\CameraAnalyzerHandler.class
+org\openhab\binding\cameraAnalyzer\internal\CameraAnalyzerHandlerFactory.class

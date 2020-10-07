@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.12">
+<file name="E:\openhab-addons-2\bundles\org.openhab.binding.cameraAnalyzer\.classpath">
+</file>
+<file name="E:\openhab-addons-2\bundles\org.openhab.binding.cameraAnalyzer\pom.xml">
+</file>
+<file name="E:\openhab-addons-2\bundles\org.openhab.binding.cameraAnalyzer\README.md">
+</file>
+<file name="E:\openhab-addons-2\bundles\org.openhab.binding.cameraAnalyzer\src\main\java\org\openhab\binding\cameraAnalyzer\internal\CameraAnalyzerBindingConstants.java">
+<error line="13" column="9" severity="info" message="Name &apos;org.openhab.binding.cameraAnalyzer.internal&apos; must match pattern &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="E:\openhab-addons-2\bundles\org.openhab.binding.cameraAnalyzer\src\main\java\org\openhab\binding\cameraAnalyzer\internal\CameraAnalyzerConfiguration.java">
+<error line="13" column="9" severity="info" message="Name &apos;org.openhab.binding.cameraAnalyzer.internal&apos; must match pattern &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="20" severity="warning" message="Classes/Interfaces should be annotated with @NonNullByDefault" source="org.openhab.tools.analysis.checkstyle.NullAnnotationsCheck"/>
+</file>
+<file name="E:\openhab-addons-2\bundles\org.openhab.binding.cameraAnalyzer\src\main\java\org\openhab\binding\cameraAnalyzer\internal\CameraAnalyzerHandler.java">
+<error line="13" column="9" severity="info" message="Name &apos;org.openhab.binding.cameraAnalyzer.internal&apos; must match pattern &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="49" severity="info" message="Comment matches to-do format &apos;(TODO)|(FIXME)&apos;." source="com.puppycrawl.tools.checkstyle.checks.TodoCommentCheck"/>
+<error line="52" severity="info" message="Comment matches to-do format &apos;(TODO)|(FIXME)&apos;." source="com.puppycrawl.tools.checkstyle.checks.TodoCommentCheck"/>
+<error line="65" severity="info" message="Comment matches to-do format &apos;(TODO)|(FIXME)&apos;." source="com.puppycrawl.tools.checkstyle.checks.TodoCommentCheck"/>
+</file>
+<file name="E:\openhab-addons-2\bundles\org.openhab.binding.cameraAnalyzer\src\main\java\org\openhab\binding\cameraAnalyzer\internal\CameraAnalyzerHandlerFactory.java">
+<error line="13" column="9" severity="info" message="Name &apos;org.openhab.binding.cameraAnalyzer.internal&apos; must match pattern &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="E:\openhab-addons-2\bundles\org.openhab.binding.cameraAnalyzer\src\main\resources\ESH-INF\binding\binding.xml">
+</file>
+<file name="E:\openhab-addons-2\bundles\org.openhab.binding.cameraAnalyzer\src\main\resources\ESH-INF\thing\thing-types.xml">
+</file>
+</checkstyle>
